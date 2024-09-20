@@ -1,12 +1,17 @@
 body{
     background: black;
-}
-p{
-    background-color: aqua;
-    color: red;
-    font-size: 30px;
     justify-content: center;
     align-items: center;
-    margin: 50px 50px 50px 50px;
-    width: 250px;
+}
+p{
+    /* background-color: aqua; */
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 275px;
+}
+h3{
+    color: rgb(16, 218, 218);
+    font-size: 30px;
+    text-align: center;
 }
