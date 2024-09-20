@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+p{
+    background-color: aqua;
+    color: red;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 50px 50px 50px;
+    width: 250px;
+}
